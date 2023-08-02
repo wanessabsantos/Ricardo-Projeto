@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+input {
+    margin: 10px;
+}
+
+#Buttonsubmit {
+    margin: 20px;  
+    margin-bottom: 20px;  
+}
+
+#displayNameSemAspas {
+    border: 1px solid greenyellow;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 50%;
+    margin: 10px auto;
+}
+
+#displayNameComAspas {
+    border: 1px solid blue;
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px;
+    width: 50%;
+    margin: 10px auto;
+}
+
+#sortnButton {
+    margin: 20px;  
+    margin-bottom: 20px;  
+}
